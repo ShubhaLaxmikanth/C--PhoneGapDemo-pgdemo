@@ -1,0 +1,14 @@
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\ApplicationIcon.png
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\Background.png
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\CamTest.dll
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\CamTest.pdb
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\AppManifest.xaml
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\CamTest.xap
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\Bin\Debug\WPCordovaClassLib.dll
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\ResolveAssemblyReference.cache
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\App.g.i.cs
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\MainPage.g.i.cs
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\CamTest.g.resources
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\CamTest.dll
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\CamTest.pdb
+F:\Vinodh\Work\CodeName_Kakashi\CamTest\CamTest\obj\Debug\XapCacheFile.xml
